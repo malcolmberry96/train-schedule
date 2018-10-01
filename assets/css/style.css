@@ -1,0 +1,23 @@
+body {
+    background-color: #E1AD15;
+}
+
+.panel-heading{
+    font-family: 'Playfair Display', serif;
+}
+
+h1, label, button{
+    font-family: 'Playfair Display', serif;
+}
+#trainName{
+    font-family: 'Playfair Display', serif;
+}
+#dest{
+    font-family: 'Playfair Display', serif;
+}
+#firstTrainTime{
+    font-family: 'Playfair Display', serif;
+}
+#freq{
+    font-family: 'Playfair Display', serif;
+}
