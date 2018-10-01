@@ -4,9 +4,10 @@ body {
 
 .panel-heading{
     font-family: 'Playfair Display', serif;
+    
 }
 
-h1, label, button{
+h1, label, button, td, th{
     font-family: 'Playfair Display', serif;
 }
 #trainName{
